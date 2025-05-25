@@ -1,0 +1,22 @@
+<svg width="100" height="75" viewBox="0 0 64 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="64" height="48" fill="#1e1e1e"/>
+
+  <!-- Browser window -->
+  <rect x="2" y="2" width="60" height="44" rx="3" ry="3" fill="#2c2c2c" stroke="#555" stroke-width="1.5"/>
+  
+  <!-- Browser header bar -->
+  <rect x="2" y="2" width="60" height="8" fill="#3c3c3c"/>
+  
+  <!-- Browser buttons -->
+  <circle cx="6" cy="6" r="1.5" fill="#ff5f56"/>
+  <circle cx="11" cy="6" r="1.5" fill="#ffbd2e"/>
+  <circle cx="16" cy="6" r="1.5" fill="#27c93f"/>
+  
+  <!-- Portfolio label -->
+  <text x="8" y="20" font-family="sans-serif" font-size="4" fill="#ffffff">Portfolio</text>
+  
+  <!-- Code block -->
+  <rect x="8" y="24" width="48" height="16" rx="2" ry="2" fill="#1e1e1e" stroke="#444" stroke-width="1"/>
+  <text x="12" y="35" font-family="monospace" font-size="4" fill="#00e676">&lt;/&gt;</text>
+</svg>
