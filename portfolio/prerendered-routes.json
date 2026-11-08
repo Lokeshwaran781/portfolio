@@ -1,0 +1,11 @@
+{
+  "routes": {
+    "/": {},
+    "/about": {},
+    "/certification": {},
+    "/education": {},
+    "/experience": {},
+    "/resume": {},
+    "/skills": {}
+  }
+}
